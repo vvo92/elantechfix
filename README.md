@@ -1,0 +1,2 @@
+# elantechfix
+fix touchpad
